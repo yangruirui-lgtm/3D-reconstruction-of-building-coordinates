@@ -1,0 +1,8 @@
+# Image list with two lines of data per image:
+# IMAGE_ID, QW, QX, QY, QZ, TX, TY, TZ, CAMERA_ID, NAME
+1 1.0 0.0 0.0 0.0 0.0 0.0 0.0 1 camera1.jpg
+0 0 0
+2 1.0 0.0 0.0 0.0 1.0 0.0 0.0 2 camera2.jpg
+0 0 0
+3 1.0 0.0 0.0 0.0 2.0 0.0 0.0 3 camera3.jpg
+0 0 0

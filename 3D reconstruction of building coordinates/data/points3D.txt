@@ -1,0 +1,4 @@
+# 3D point list with one line of data per point:
+# POINT3D_ID, X, Y, Z, R, G, B, ERROR, TRACK[]
+1 5.02 -0.06 26.35 255 255 255 0.1 1 2 3
+2 6.39 -7.28 16.11 255 255 255 0.1 1 2 3
